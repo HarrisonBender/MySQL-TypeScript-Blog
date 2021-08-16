@@ -1,0 +1,10 @@
+$theme-colors: (
+    'primary': #0091ea //Covalence Blue!  :D
+);
+
+@import '../../../node_modules/bootstrap/scss/bootstrap.scss';
+
+img {
+    max-width: 1em;
+    float: right;
+}
